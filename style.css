@@ -66,15 +66,18 @@ body {
 .budget__expenses {
   padding: 12px;
   text-transform: uppercase;
+  border-radius: 5px;
 }
 
 .budget__income {
   margin-bottom: 10px;
-  background-color: #28b9b5;
+  background-color: #006fee;
+  opacity: 0.8;
 }
 
 .budget__expenses {
-  background-color: #ff5049;
+  background-color: #f80800;
+  opacity: 0.8;
 }
 
 .budget__income--text,
